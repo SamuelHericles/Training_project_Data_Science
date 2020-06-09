@@ -1,5 +1,8 @@
 # Projeto de formacao Data Science
 
+Caso queria executar esse notebook no seu computador, se o sistema operacional for windows, apenas execute o arquivo **StartJupyter** 
+e espere uma aba abrir no seu navegador.Caso seja de distribuição Linux, rode o comando ```jupyer-notebook``` no diretório local de download deste projeto no seu computador.
+
 ## Situação problema
 
 Você foi contratado para ajudar uma produtora de filmes a explorar informações sobre diversos generos de filmes. A ideia é obter 
